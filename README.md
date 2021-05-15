@@ -25,6 +25,30 @@ a robust analytic dataset and use it to build a predictive model to select the b
 ### Project 4: Classification Models
 
 A bank recently received an influx of loan applications. The goal is to build and apply a classification model to
-provide a recommendation on which loan applicants the bank should lend to
+provide a recommendation on which loan applicants the bank should lend to.
 
 - P4: [Predicting Default Risk](https://github.com/JoshuaOkafor/Udacity-Predictive-Analytics-for-Business-Nanodegree/tree/main/P4%20-%20Classification%20Models)
+
+### Project 5: A/B Testing
+
+A chain of coffee shops is considering launching a new menu. Design and analyze an A/B test and
+write up a recommendation on whether the chain should introduce the new menu.
+
+- P5: [A/B Test a New Menu Launch](https://github.com/JoshuaOkafor/Udacity-Predictive-Analytics-for-Business-Nanodegree/tree/main/P5%20-%20AB%20Testing)
+
+### Project 6: Time Series Forecasting
+
+A video game producer is planning production levels. Use time series forecasting models to forecast
+monthly demand and provide a recommendation to help match supply to demand.
+
+- P6: [Forecast Video Game Sales](https://github.com/JoshuaOkafor/Udacity-Predictive-Analytics-for-Business-Nanodegree/tree/main/P6%20-%20Time%20Series%20Forecasting)
+
+### Project 7: Segmentation and Clustering
+
+A grocery store chain is planning a significant expansion. Use multiple analytical techniques to
+provide recommendations on how to expand. 
+
+- P7: Capstone Project: [Predictive Analytics Capstone](https://github.com/JoshuaOkafor/Udacity-Predictive-Analytics-for-Business-Nanodegree/tree/main/P7%20-%20Segmentation%20and%20Clustering)
+
+
+
