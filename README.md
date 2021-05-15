@@ -51,4 +51,8 @@ provide recommendations on how to expand.
 - P7: Capstone Project: [Predictive Analytics Capstone](https://github.com/JoshuaOkafor/Udacity-Predictive-Analytics-for-Business-Nanodegree/tree/main/P7%20-%20Segmentation%20and%20Clustering)
 
 
+Nanodegree Certificate:
+
+![Udacity Predictive Analytics for Business Nanodegree](https://github.com/JoshuaOkafor/Udacity-Predictive-Analytics-for-Business-Nanodegree/blob/main/Nanodegree%20Certificate.JPG)
+
 
